@@ -1,0 +1,39 @@
+body{
+	background-color:#809080;
+}
+h1{
+	text-align:center;
+	color:darkorange;
+	font-family:Arial;
+}
+form{
+	color:darkorange;
+	font-family:Arial
+}
+#s{
+	font-size: 200%;
+	position: fixed;
+	top: 40%;
+	bottom: 40%;
+	left: 40%;
+	right: 40%;
+	height: 20%;
+	width: 20%;
+	color:darkorange; 
+	font-family: Arial
+}
+#u{
+	font-size: 150%;
+	position: fixed;
+	top: 60%;
+	bottom: 30%;
+	left: 45%;
+	right: 45%;
+	height: 10%;
+	width: 10%;
+	color:darkorange;
+	font-family: Arial
+}
+iframe{
+	border: none;
+}
